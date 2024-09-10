@@ -1,13 +1,13 @@
 # Projeto SQL: Sistema de Transações Bancárias
 
-Este projeto SQL simula um sistema de gerenciamento de clientes, contas bancárias e transações. Ele inclui scripts para criação de tabelas, inserção de dados e execução de consultas que permitem visualizar informações dos clientes e suas transações.
+Este projeto SQL simula um bem sistema de gerenciamento de clientes, contas bancárias e transações. Ele inclui scripts para criação de tabelas, inserção de dados e execução de consultas que permitem visualizar informações dos clientes e suas transações.
 
 ## Estrutura do Projeto
 
 - **scripts/criar_tabelas.sql**: Criação das tabelas `Clientes`, `Contas` e `Transacoes`.
 - **scripts/inserir_dados.sql**: Inserção de dados iniciais nas tabelas.
 - **scripts/consultas.sql**: Consultas SQL para recuperar informações sobre os clientes, contas e transações.
-- **dados/clientes_contas.csv** (opcional): Exemplo de arquivo CSV com dados de clientes e contas.
+- **dados/clientes_contas.csv**: Arquivo CSV de exemplo com dados de clientes e contas fictícios.
 
 ## Pré-requisitos
 
