@@ -33,10 +33,4 @@ Consultas
    - Total de transações por cliente: Exibe o total de transações por cliente, considerando aqueles com saldo positivo.
    - Saldo total por cliente: Mostra o saldo acumulado por cliente.
 
-Personalização
 
-Sinta-se à vontade para modificar os scripts conforme necessário. Você pode adicionar novos dados, consultas ou até mesmo implementar novas funcionalidades como relatórios e estatísticas sobre as transações.
-
-Licença
-
-Este projeto é de uso livre e aberto.
