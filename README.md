@@ -17,22 +17,21 @@ Para rodar este projeto, você precisará de um servidor SQL. O projeto é compa
 
 1. **Criar as tabelas**: Execute o script `criar_tabelas.sql` para criar as tabelas no seu banco de dados.
    
-   source scripts/criar_tabelas.sql;
+         source scripts/criar_tabelas.sql;
 
 2. **Inserir os dados**: Execute o script inserir_dados.sql para inserir os dados nas tabelas.
 
 
-source scripts/inserir_dados.sql;
+         source scripts/inserir_dados.sql;
 
 3. **Executar consultas**: Utilize o script consultas.sql para fazer consultas e visualizar os dados.
 
-    source scripts/consultas.sql;
-
+          source scripts/consultas.sql;
 Consultas
 
-    Consultar clientes e suas contas: Exibe o nome do cliente, o tipo de conta e o saldo.
-    Total de transações por cliente: Exibe o total de transações por cliente, considerando aqueles com saldo positivo.
-    Saldo total por cliente: Mostra o saldo acumulado por cliente.
+   - Consultar clientes e suas contas: Exibe o nome do cliente, o tipo de conta e o saldo.
+   - Total de transações por cliente: Exibe o total de transações por cliente, considerando aqueles com saldo positivo.
+   - Saldo total por cliente: Mostra o saldo acumulado por cliente.
 
 Personalização
 
